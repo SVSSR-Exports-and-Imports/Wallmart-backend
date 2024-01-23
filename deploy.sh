@@ -1,2 +1,1 @@
-deployment anuko.
-from uat
+
