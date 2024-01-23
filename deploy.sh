@@ -1,3 +1,6 @@
-git stash trail.
-deployment anuko.
 
+<<<<<<< HEAD
+
+=======
+from uat
+>>>>>>> wm/devops
